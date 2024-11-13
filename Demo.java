@@ -6,5 +6,6 @@ int x=10;
 int y=x;
 int a=10;
 int m=100;
+double a1=100.01;
   }
 }
